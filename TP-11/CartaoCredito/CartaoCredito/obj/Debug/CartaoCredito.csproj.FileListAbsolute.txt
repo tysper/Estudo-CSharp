@@ -1,0 +1,6 @@
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-11\CartaoCredito\CartaoCredito\bin\Debug\CartaoCredito.dll
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-11\CartaoCredito\CartaoCredito\bin\Debug\CartaoCredito.pdb
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-11\CartaoCredito\CartaoCredito\obj\Debug\CartaoCredito.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-11\CartaoCredito\CartaoCredito\obj\Debug\CartaoCredito.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-11\CartaoCredito\CartaoCredito\obj\Debug\CartaoCredito.dll
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-11\CartaoCredito\CartaoCredito\obj\Debug\CartaoCredito.pdb

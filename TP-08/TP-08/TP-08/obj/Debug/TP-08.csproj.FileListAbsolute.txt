@@ -1,0 +1,11 @@
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-08\TP-08\TP-08\bin\Debug\TP-08.exe.config
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-08\TP-08\TP-08\bin\Debug\TP-08.exe
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-08\TP-08\TP-08\bin\Debug\TP-08.pdb
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-08\TP-08\TP-08\obj\Debug\TP-08.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-08\TP-08\TP-08\obj\Debug\TP-08.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-08\TP-08\TP-08\obj\Debug\TP_08.Properties.Resources.resources
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-08\TP-08\TP-08\obj\Debug\TP-08.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-08\TP-08\TP-08\obj\Debug\TP-08.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-08\TP-08\TP-08\obj\Debug\TP-08.exe
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-08\TP-08\TP-08\obj\Debug\TP-08.pdb
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-08\TP-08\TP-08\obj\Debug\TP_08.FRM_Alunos.resources

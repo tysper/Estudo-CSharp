@@ -1,0 +1,6 @@
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-10\RG\RG\bin\Debug\RG.dll
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-10\RG\RG\bin\Debug\RG.pdb
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-10\RG\RG\obj\Debug\RG.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-10\RG\RG\obj\Debug\RG.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-10\RG\RG\obj\Debug\RG.dll
+C:\Users\pedro\Desktop\Estudo-CSharp\TP-10\RG\RG\obj\Debug\RG.pdb
